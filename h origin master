@@ -1,0 +1,23 @@
+[33mcommit d1d509fad7fa30e2a5389613700b560710cdbc97[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: KEN4718 <weirdguy2281@gmail.com>
+Date:   Thu Jan 16 23:59:15 2025 +0800
+
+    Track .mov files using Git LFS
+
+[33mcommit 5c1a95bdf1bf108c0eaf175d22f2cfcd0080e2bb[m
+Author: KEN4718 <weirdguy2281@gmail.com>
+Date:   Thu Jan 16 23:18:15 2025 +0800
+
+    Use Git LFS for large files
+
+[33mcommit d22554bb1108badc843f5099b49379a95339e057[m
+Author: KEN4718 <weirdguy2281@gmail.com>
+Date:   Thu Jan 16 23:15:33 2025 +0800
+
+    Use Git LFS for large files
+
+[33mcommit 5304b71ca8f589a09efda6cdaa2f76276b132917[m
+Author: KEN4718 <weirdguy2281@gmail.com>
+Date:   Thu Jan 16 22:54:39 2025 +0800
+
+    Initial commit
